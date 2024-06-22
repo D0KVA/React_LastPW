@@ -1,0 +1,140 @@
+{
+    "media": [
+        {
+            "id": 1,
+            "image": "https://sun6-21.userapi.com/impf/YZv4kXLDCFmsSIakMUR9kRU0C3rGyQ2Sd4vb3Q/Kp2qVnRoVdw.jpg?size=1280x915&quality=96&sign=8da3285be507aba475a0dfed7bab53ea&type=album",
+            "name": "Aghanim's Shard",
+            "price": "1400",
+            "category": "Ability Upgrade",
+            "details": "Лишь один чародей знает, откуда берутся осколки этих невозможных кристаллов, и потому они не менее желанные, чем его прославленный скипетр."
+        },
+        {
+            "id": 2,
+            "image": "https://sun6-20.userapi.com/impf/lrJecSm_uR9AbGje2R27Ea4_7JZakqmlNjD2rw/mUcA0O_Fqhc.jpg?size=1280x953&quality=96&sign=2f570c5c1e1435b5e87ee99e258e7501&type=album",
+            "name": "Desolator",
+            "price": "3500",
+            "category": "Physical Damage Upgrade",
+            "details": "Это проклятое оружие использовалось при пытках особо опасных преступников."
+        },
+        {
+            "id": 3,
+            "image": "https://sun6-22.userapi.com/impf/20oHV3saB7l9plb_AfhsKl708NLEPkibZHX_gw/2N0FFMHjT_k.jpg?size=1280x936&quality=96&sign=5369e4d5f6b1654b74ba54925ed79468&type=album",
+            "name": "Enchanted Mango",
+            "price": "65",
+            "category": "Сonsumables",
+            "details": "Любимый амфибиями горько-сладкий плод с острова Джиди."
+        },
+        {
+            "id": 4,
+            "image": "https://sun6-20.userapi.com/impf/TzdgDdD4fU4K56VTfs1zPm8AY1zp5RMBv8YT9g/fukzLz6H1gQ.jpg?size=949x710&quality=96&sign=963f29ebfd1c5b08717eb00c0584c694&type=album",
+            "name": "Divine Rapier",
+            "price": "5600",
+            "category": "Damage Upgrade",
+            "details": "Настолько могущественная, что у нее даже не может быть единоличного владельца."
+        },
+        {
+            "id": 5,
+            "image": "https://sun6-21.userapi.com/impf/SIf3XFaGUNa4BZoGlRwfulhsiBLgqwjS0aph7w/MjWldpj2O9A.jpg?size=960x726&quality=96&sign=cbff9a2fb56b5e499d68d60a7237a86c&type=album",
+            "name": "Assault Cuirass",
+            "price": "5125",
+            "category": "Aura",
+            "details": "Выкованная в кузнях преисподней, эта адская броня обеспечивает владельцу и его союзникам дополнительную броню и скорость атаки."
+        },
+        {
+            "id": 6,
+            "image": "https://sun1-21.userapi.com/impf/EZTlcjcHo0casG85TC1xuWU018o6fOeEuDArRg/W2o7eFMWilk.jpg?size=735x490&quality=96&sign=308010630bd7c39555cfeb6e4df67606&type=album",
+            "name": "Magic Stick",
+            "price": "200",
+            "category": "Heal",
+            "details": "Простая волшебная палочка, в которой концентрируют магическую энергию начинающие волшебники и великие колдуны."
+        },
+        {
+            "id": 7,
+            "image": "https://sun1-86.userapi.com/impf/LjMc8hp_mMJhfePcUM9wL9JV24LkzQzd4gtPVQ/PzAnsH9iRNs.jpg?size=1240x916&quality=96&sign=12ce0b50bc22fad844ff55522eeb6d9d&type=album",
+            "name": "Boots of Speed",
+            "price": "500",
+            "category": "Speed",
+            "details": "Удобная обувь, ускоряющая передвижение."
+        },
+        {
+            "id": 8,
+            "image": "https://sun1-84.userapi.com/impf/iJjjE8zzA_-Xq_45dOVxj1VTjTeVP9o06XPWiA/tIMQTScNHw4.jpg?size=1240x907&quality=96&sign=f33e4212fcc17fee391f3468fcf7dc02&type=album",
+            "name": "Quelling Blade",
+            "price": "100",
+            "category": "Сonsumables",
+            "details": "Топор павшего гнома, позволяющий с лёгкостью продираться сквозь лес."
+        },
+        {
+            "id": 9,
+            "image": "https://sun1-20.userapi.com/impf/FurWHRPMjh5H_W2GagmJbSF2NAgO_2vSoDxrcQ/q2vLhKIGj5g.jpg?size=1360x770&quality=96&sign=2d4a5935518c51be68d3c079861b5302&type=album",
+            "name": "Aegis of the Immortal",
+            "price": "1000000",
+            "category": "Сonsumables",
+            "details": "Легенды гласят, что Бессмертный владел щитом, защищавшим его от самой смерти."
+        },
+        {
+            "id": 10,
+            "image": "https://sun9-44.userapi.com/impf/61dM3benfJqHCJx_oHJuN1t3Fj2R5Otah84uXA/ebqweSaF4_A.jpg?quality=96&as=32x24,48x36,72x54,108x81,160x121,240x181,360x271,480x362,540x407,640x482,720x543,1039x783&sign=eb8694a003e19bef00e599bf4edff162&from=bu&u=ykNsF9VjVDdl9HR8jB3DcXmmQK8V99vF_nkFyIHWWfE&cs=807x608",
+            "name": "Town Portal Scroll",
+            "price": "100",
+            "category": "Сonsumables",
+            "details": "То, что нужно истинному герою."
+        },
+        {
+            "id": 11,
+            "image": "https://sun9-69.userapi.com/impf/BAyyJvp7n77PFQr-6N4b7JsdiFOwJGDM_D5aNg/TYIfRFEDjVo.jpg?quality=96&as=32x23,48x34,72x51,108x76,160x113,240x170,360x255,480x339,540x382,640x453,720x509,1048x741&sign=2344d7011dafa0cdf48ada07dd176c01&from=bu&u=KpfPTBR7yTRV6JiKvWiLiN83frGeEcHO21VuMOQlHaU&cs=807x571",
+            "name": "Clarity",
+            "price": "50",
+            "category": "Сonsumables",
+            "details": "Чистая вода, повышающая способность к медитации."
+        },
+        {
+            "id": 12,
+            "image": "https://sun9-25.userapi.com/impf/z9KTcuT2Oep_sXgcRx5mQbk48UczW_-45v5Bag/vorbzhmgK5Q.jpg?quality=96&as=32x23,48x34,72x51,108x76,160x113,240x169,360x254,480x339,540x381,640x452,720x508,1048x740&sign=a74e923708b153710a18af57fc1b8511&from=bu&u=MZHtpnV2iB-mYsEqwaT3LhBPct6HtOUr4Pgzjngb9f0&cs=807x570",
+            "name": "Faerie Fire",
+            "price": "65",
+            "category": "Heal",
+            "details": "Призрачное пламя с незатухающих останков Древа доброты горит в любом мире."
+        },
+        {
+            "id": 13,
+            "image": "https://sun9-12.userapi.com/impf/RpdQ1NzDu95DNQ_v0TR-xzZ8jEJCzpUjjnxewA/RoJT6CCj4Y8.jpg?quality=96&as=32x23,48x34,72x51,108x77,160x114,240x170,360x255,480x341,540x383,640x454,720x511,1040x738&sign=55f637af7ea3e3b8e9ec8a29259c2b53&from=bu&u=x546Tcjgku2MHVog2dZCDmQmBFENkuB8GSJLFgCo_Sc&cs=807x573",
+            "name": "Smoke of Deceit",
+            "price": "50",
+            "category": "Сonsumables",
+            "details": "Единственный достойный вклад волшебника-шарлатана Мирддина в колдовское искусство."
+        },
+        {
+            "id": 14,
+            "image": "https://sun9-15.userapi.com/impf/UaMFIVVSDecJMn2z_vAW8P85vgUJbQsGZrFiyQ/ynvIOfIv0Ho.jpg?quality=96&as=32x24,48x36,72x54,108x82,160x121,240x181,360x272,480x363,540x408,640x483,720x544,1022x772&sign=187da97b231f285ce3e2b548f74ee8ac&from=bu&u=fPqcD734kHVFgYXNhb1TXMCgXip74gmZRYmREXapY0c&cs=1022x772",
+            "name": "Infused Raindrops",
+            "price": "225",
+            "category": "Сonsumables",
+           "details": "Стихийная защита от магических атак."
+        },
+        {
+            "id": 15,
+            "image": "https://sun9-61.userapi.com/impf/W4HZ1ckqujMWOMwVIpY1r1axuXAVGMgvldGvRA/RCKXPQFTfl0.jpg?quality=96&as=32x23,48x34,72x51,108x76,160x113,240x170,360x255,480x340,540x382,640x453,720x510,1080x764,1109x785&sign=de423158f40d162b1aafdb6d303ec6f6&from=bu&u=OoM06N_ONlWIqDOcEOE39L4tfg7KWZz4_j4Ls9EGYUY&cs=807x571",
+            "name": "Refresher Orb",
+            "price": "5000",
+            "category": "Refresh",
+            "details": "Могущественный артефакт, созданный для магов."
+        },
+        {
+            "id": 16,
+            "image": "https://sun9-9.userapi.com/impf/D126TsleTI36-bzZ9QZRLunZhe_J-KHdjAv0qQ/THCaow9C31Q.jpg?quality=96&as=32x22,48x33,72x49,108x74,160x110,240x165,360x247,480x330,540x371,640x440,720x495,1080x742,1138x782&sign=1265e906c957012759217c169a5953c0&from=bu&u=U-vj9Aq-1CvG6casQF3qtliK8hILJHdO9oYC0PaxFxE&cs=807x555",
+            "name": "Morbid Mask",
+            "price": "900",
+            "category": "Lifesteal",
+            "details": "Маска, поглощающая энергию тех, кто попался ей на глаза."
+        },
+        {
+            "id": 17,
+            "image": "https://sun9-78.userapi.com/impf/kcQlbRRWD4MRp7DegHX3x34D_e89EvzkMjcbFQ/23ozTfzdQNE.jpg?quality=96&as=32x22,48x34,72x51,108x76,160x112,240x169,360x253,480x337,540x380,640x450,720x506,1080x759,1121x788&sign=abc7c549f74652bf3dfa0cd5003272c1&from=bu&u=4dpWni5okst8TJDR2t0b7XAF14AIXegEqBZvnYYCP98&cs=807x567",
+            "name": "Mekansm",
+            "price": "1775",
+            "category": "Heal",
+            "details": "Сияющий алмаз, собранный из разных частей, которые почему-то прекрасно объединяются."
+        }  
+    ]
+}
