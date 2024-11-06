@@ -37,6 +37,7 @@ const Home = () => {
     }, []);
 
     return (
+        <meta name="yandex-verification" content="8896df09b4cb5a98" />
         <div className='Home_home'>
             <div className='Home_poizon'>
                 <div className='Home_imageContainer'>
