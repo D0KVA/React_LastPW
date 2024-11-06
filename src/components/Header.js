@@ -11,6 +11,7 @@ const Header = ({ onSearch }) => {
   };
 
   return (
+    <meta name="yandex-verification" content="8896df09b4cb5a98" />
     <div className="Headerchik">
       <div className="wrapper Headerchik_content">
         <div className="Headerchik_left">
